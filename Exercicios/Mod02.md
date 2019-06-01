@@ -27,8 +27,11 @@
 #### 5 - When using output parameters in a method signature, which one of the following statements is true?
 
 (   ) Option 1: You cannot return data by using a return statement in a method that use output parameters.
+
 (   ) Option 2: You can only use the type object when defining an output parameter.
+
 (   ) Option 3: You must assign a value to an output parameter before the method returns.
+
 (   ) Option 4: You define an output parameter by using the output keyword.
 
 
